@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm a creator of Providence, a session replay application that uses AI to generate summaries, which can be read much quicker than a replay can be watched.
+It also had a RAG chatbot that you can ask qualitative questions of to learn more about what your users are up to. Read all about it at...
 <!--
 **gt-chase/gt-chase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
