@@ -1,6 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 Hello. I’m Greg, a software engineer who enjoys working on challenging problems to have a positive impact. As an engineer who transitioned into software, I bring a unique perspective and experience, in addition to fundamental coding knowledge and skills. My time working as the director of a university program and also in the trades has helped me become organized and develop the skills to be a good team member.
 
+
+# Providence Replay
 I recently developed [Providence](https://providence-replay.github.io/) after noticing how time-consuming it can be to digest session replays. Despite how valuable watching a replay can be, people often do not want to sit through them. With Providence, you receive a summary of the session as soon as it is done recording. You can also query an RAG chatbot to discover qualitative answers based on a knowledge base of your session data.
 
 *Technologies Used - TypeScript, AWS (RDS with PostgreSQL, S3, CloudFront), Quadrant, OpenAI, Redis Stack.*
