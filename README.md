@@ -11,7 +11,7 @@ I recently developed [Providence](https://providence-replay.github.io/) after no
 
 # Where to Connect With Me
 
-<a href="https://www.linkedin.com/in/gregory-chase-736442314/" target="blank"><img align="center" src="./linkedin.svg" height="100" /></a>
+<a href="https://www.linkedin.com/in/gregory-chase-736442314/" target="blank"><img align="center" src="./linkedin.svg" height="50" /></a>
 <!--
 **gt-chase/gt-chase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
