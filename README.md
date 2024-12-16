@@ -1,6 +1,11 @@
 ## Hi there 👋
-I'm a creator of Providence, a session replay application that uses AI to generate summaries, which can be read much quicker than a replay can be watched.
-It also had a RAG chatbot that you can ask qualitative questions of to learn more about what your users are up to. Read all about it on the [Providence](https://providence-replay.github.io/) website.
+Hello. I’m Greg, a software engineer who enjoys working on challenging problems to have a positive impact. As an engineer who transitioned into software, I bring a unique perspective and experience, in addition to fundamental coding knowledge and skills. My time working as the director of a university program and also in the trades has helped me become organized and develop the skills to be a good team member.
+
+I recently developed [Providence](https://providence-replay.github.io/) after noticing how time-consuming it can be to digest session replays. Despite how valuable watching a replay can be, people often do not want to sit through them. With Providence, you receive a summary of the session as soon as it is done recording. You can also query an RAG chatbot to discover qualitative answers based on a knowledge base of your session data.
+
+*Technologies Used - TypeScript, AWS (RDS with PostgreSQL, S3, CloudFront), Quadrant, OpenAI, Redis Stack.*
+
+[Read the case study on Providence]([https://providence-replay.github.io/](https://providence-replay.github.io/background.html))
 <!--
 **gt-chase/gt-chase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
