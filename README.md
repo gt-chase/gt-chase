@@ -8,6 +8,10 @@ I recently developed [Providence](https://providence-replay.github.io/) after no
 *Technologies Used - TypeScript, AWS (RDS with PostgreSQL, S3, CloudFront), Quadrant, OpenAI, Redis Stack.*
 
 [Read the case study on Providence](https://providence-replay.github.io/background.html)
+
+# Where to Connect With Me
+
+<a href="https://www.linkedin.com/in/gregory-chase-736442314/" target="blank"><img align="center" src="./linkedin.svg" height="100" /></a>
 <!--
 **gt-chase/gt-chase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
